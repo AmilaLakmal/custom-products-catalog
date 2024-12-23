@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "eec10261-e1d5-4a23-9b29-4feb22e2f2d5",
+  "projectId": "custom-products-catalog"
+}

@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
+  "id": "1e21b47a-54ba-4099-a004-e8b47ef37e33",
+  "title": "Custom Products Catalog"
+}
